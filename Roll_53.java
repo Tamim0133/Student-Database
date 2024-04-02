@@ -363,7 +363,7 @@ class Student {
 
 }
 
-public class StudentDatabase {
+public class Roll_53 {
 
   private static final String[] FIRST_NAMES = {
     "Tauseef",
